@@ -12,18 +12,34 @@
 
 ## 📊 GitHub Statistics
 
+<!-- Mobile-First Stats Layout -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yash1648&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash1648&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=yash1648&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=yash1648&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash1648&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yash1648&theme=tokyonight&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash1648&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+  </picture>
 </div>
 
-<!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%">
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yash1648&layout=compact&theme=tokyonight&hide_border=true&card_width=350">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash1648&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  </picture>
+</div>
+
+<!-- Snake Animation - Mobile Responsive -->
+<div align="center">
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" style="max-width: 100%; height: auto;">
+  </picture>
 </div>
 
 <div align="center">
@@ -32,7 +48,12 @@
 
 ## 🚀 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300">
+<!-- Mobile-Responsive Layout -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="250" style="max-width: 100%; height: auto;">
+</div>
+
+<br>
 
 Results-driven Software Developer with proven expertise in Java Spring Boot and Python. My achievements include:
 
@@ -48,65 +69,47 @@ Results-driven Software Developer with proven expertise in Java Spring Boot and 
 
 ## 💻 Tech Stack
 
+<!-- Mobile-First Tech Stack -->
+### Frontend
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="33%">
-        <h3>Frontend</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,js&theme=dark" alt="Frontend Skills" />
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3>Backend</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=java,spring,python,django,flask&theme=dark" alt="Backend Skills" />
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3>Tools & DB</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=git,mysql,postgres,postman,vscode&theme=dark" alt="Tools Skills" />
-        </div>
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,js&theme=dark&perline=3" alt="Frontend Skills" />
+</div>
+
+### Backend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django,flask&theme=dark&perline=3" alt="Backend Skills" />
+</div>
+
+### Tools & Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,mysql,postgres,postman,vscode&theme=dark&perline=3" alt="Tools Skills" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-
 ## 🏆 Achievements & Certifications
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yash1648&theme=tokyonight" alt="Profile Summary" />
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yash1648&theme=tokyonight">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yash1648&theme=tokyonight" alt="Profile Summary" style="max-width: 100%; height: auto;" />
+  </picture>
 </div>
 
 <br>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <ul>
-          <li>🥇 Awarded 'Best Project' for EduSolver AI</li>
-          <li>🏆 Champion of "C Mania" programming competition</li>
-          <li>🎓 Academic trophy for top ranking in multiple semesters</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>☑️ Java Basic (HackerRank)</li>
-          <li>☑️ Python Basic (HackerRank)</li>
-          <li>☑️ JavaScript: Full Stack Development (Udemy)</li>
-          <li>☑️ C++ Programming (Udemy)</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+### 🏅 Awards & Recognition
+- 🥇 Awarded 'Best Project' for EduSolver AI
+- 🏆 Champion of "C Mania" programming competition
+- 🎓 Academic trophy for top ranking in multiple semesters
+
+### 📜 Certifications
+- ☑️ Java Basic (HackerRank)
+- ☑️ Python Basic (HackerRank)
+- ☑️ JavaScript: Full Stack Development (Udemy)
+- ☑️ C++ Programming (Udemy)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -137,9 +140,12 @@ Results-driven Software Developer with proven expertise in Java Spring Boot and 
 
 <br>
 
-<!-- Activity Graph -->
+<!-- Activity Graph - Mobile Responsive -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash1648&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph">
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yash1648&theme=tokyo-night&hide_border=true&area=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash1648&theme=tokyo-night&hide_border=true" alt="Activity Graph" style="max-width: 100%; height: auto;">
+  </picture>
 </div>
 
 <div align="center">
@@ -155,5 +161,11 @@ Results-driven Software Developer with proven expertise in Java Spring Boot and 
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding gif" height="250">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding gif" style="max-width: 100%; height: auto; max-height: 250px;">
+</div>
+
+---
+
+<div align="center">
+  <sub>✨ <strong>Thank you for visiting my profile!</strong> ✨</sub>
 </div>
