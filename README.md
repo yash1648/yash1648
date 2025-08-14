@@ -121,13 +121,13 @@ Results-driven Software Developer with proven expertise in Java Spring Boot and 
   <a href="mailto:yashbagal623@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yash-bagal">
+  <a href="https://linkedin.com/in/yashbagal666">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/yash1648">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://yash-bagal-portfolio">
+  <a href="https://yash-bagal-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-1E88E5?style=for-the-badge&logo=safari&logoColor=white" />
   </a>
 </div>
