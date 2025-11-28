@@ -11,13 +11,33 @@
   <a href="https://github.com/yash1648"><img src="https://img.shields.io/badge/GitHub-Follow-58A6FF?style=flat-square&logo=github" /></a>
 </div>
 
-<br>
+## 📚 Table of Contents
+
+- [👨‍💻 Yash Bagal | Full Stack Developer](#-yash-bagal--full-stack-developer)
+  - [📚 Table of Contents](#-table-of-contents)
+  - [🚀 About Me](#-about-me)
+    - [🎯 Key Achievements](#-key-achievements)
+    - [🔭 Currently Working On](#-currently-working-on)
+  - [💻 Technology Stack](#-technology-stack)
+  - [🌟 Featured Projects](#-featured-projects)
+    - [📝 Daily Diary AI](#-daily-diary-ai)
+    - [📚 Library Management System - Hibernate](#-library-management-system---hibernate)
+    - [🤖 Personal Assistant](#-personal-assistant)
+    - [📊 DSA Learning](#-dsa-learning)
+  - [📊 GitHub Statistics](#-github-statistics)
+  - [📈 Contribution Activity](#-contribution-activity)
+  - [📝 Latest Blog Posts](#-latest-blog-posts)
+  - [🏆 Achievements \& Certifications](#-achievements--certifications)
+    - [🏅 Awards \& Recognition](#-awards--recognition)
+    - [📜 Professional Certifications](#-professional-certifications)
+  - [🔗 Connect With Me](#-connect-with-me)
 
 ## 🚀 About Me
 
 Results-driven **Full Stack Developer** specializing in **Java Spring Boot**, **TypeScript**, and **Python**. Passionate about creating efficient, scalable applications and optimizing system performance through clean architecture.
 
 ### 🎯 Key Achievements
+
 - ⚡ **Performance Optimization**: Reduced system response time by **40%** through advanced code optimization
 - 🔍 **Database Enhancement**: Improved data retrieval efficiency by **25%** via query indexing and optimization
 - 📊 **Project Management**: Maintained **95%** task completion rate consistently ahead of schedule
@@ -25,27 +45,43 @@ Results-driven **Full Stack Developer** specializing in **Java Spring Boot**, **
 - 🎓 **Academic Excellence**: Graduated with distinction achieving **87%** aggregate score
 
 ### 🔭 Currently Working On
+
 - Building AI-powered journaling applications with TypeScript
 - Developing enterprise resource planning systems with Java Spring Boot
 - Contributing to open-source Python automation tools
-
 <br>
 
 ## 💻 Technology Stack
 
 <div align="center">
 
-### Backend Development
-<img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs&theme=dark&perline=5" alt="Backend Technologies" />
+<details>
+  <summary><b>Backend Development</b></summary>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs&theme=dark&perline=5" alt="Backend Technologies" />
+  </p>
+</details>
 
-### Frontend Development
-<img src="https://skillicons.dev/icons?i=typescript,react,html,css,js&theme=dark&perline=5" alt="Frontend Technologies" />
+<details>
+  <summary><b>Frontend Development</b></summary>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=typescript,react,html,css,js&theme=dark&perline=5" alt="Frontend Technologies" />
+  </p>
+</details>
 
-### Databases & Tools
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,git,docker,postman&theme=dark&perline=6" alt="Database & Tools" />
+<details>
+  <summary><b>Databases & Tools</b></summary>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,git,docker,postman&theme=dark&perline=6" alt="Database & Tools" />
+  </p>
+</details>
 
-### Development Environment
-<img src="https://skillicons.dev/icons?i=vscode,idea,github,linux,vercel&theme=dark&perline=5" alt="Development Tools" />
+<details>
+  <summary><b>Development Environment</b></summary>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,github,linux,vercel&theme=dark&perline=5" alt="Development Tools" />
+  </p>
+</details>
 
 </div>
 
@@ -163,6 +199,10 @@ Comprehensive collection of Data Structures and Algorithms implementations in Ja
 <br>
 
 ## 🔗 Connect With Me
+
+<p align="center">
+I'm always open to connecting with other developers and enthusiasts. Feel free to reach out!
+</p>
 
 <div align="center">
   <a href="mailto:yashbagal623@gmail.com">
