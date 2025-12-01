@@ -67,4 +67,4 @@ Microservices • Data Pipelines • Platform Engineering • High-Performance S
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=yash1648&icon=1&color=13)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=yash1648)](https://visitcount.itsvg.in)
