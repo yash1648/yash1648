@@ -1,7 +1,8 @@
 # 💫 Yash Bagal
 
-**Backend Developer** | Java • Rust • Python • TypeScript
+**Backend Developer** | Java • Express • Python • TypeScript
 
+**System Programmer** | Rust 
 Building scalable, resilient backend systems with a focus on clean architecture, performance, and reliability.
 
 ---
