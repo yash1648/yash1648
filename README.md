@@ -110,19 +110,27 @@ Microservices · Data Pipelines · Platform Engineering · High-Performance Syst
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=yash1648&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yash1648&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yash1648&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://img.shields.io/badge/Public%20Repos-48-2962FF?style=flat-square&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Stars-3-FFD700?style=flat-square&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Followers-1-00C853?style=flat-square&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Member%20Since-2023-1976D2?style=flat-square&logo=github&logoColor=white)
+![](https://img.shields.io/github/commit-activity/m/yash1648/yash1648?style=flat-square&logo=github&color=purple)
 
-## 🏆 GitHub Trophies
+### 📈 Top Languages
 
-![](https://github-profile-trophy.vercel.app/?username=yash1648&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+![Java](https://img.shields.io/badge/Java-13%20repos-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6%20repos-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5%20repos-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-4%20repos-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-3%20repos-000000?style=flat-square&logo=rust&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-2%20repos-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
----
+## 🏆 GitHub Achievements
 
-## 🔝 Top Contributions
-
-![](https://github-contributor-stats.vercel.app/api?username=yash1648&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+⭐ **Most Starred:** [mc-server](https://github.com/yash1648/mc-server) · 2 stars  
+📦 **48 repositories** across 8+ languages  
+🤝 **Open source contributor** with merged pull requests  
+🔗 **All repos →** [github.com/yash1648?tab=repositories](https://github.com/yash1648?tab=repositories)
 
 ---
 
